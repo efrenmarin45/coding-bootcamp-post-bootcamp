@@ -4,7 +4,7 @@
   "description": "So you think you can SQL?!?!",
   "main": "index.js",
   "dependencies": {
-    "cli-table": "^0.3.1",
+    "cli-table": "^0.3.6",
     "inquirer": "^5.2.0",
     "mysql": "^2.15.0"
   },
