@@ -12,7 +12,7 @@ gem "sinatra"
 # DB
 gem "mysql2"
 # ORM
-gem 'sinatra-activerecord'
+gem 'sinatra-activerecord', '>= 2.0.13'
 # Task-automater
 gem 'rake'
 # Get/set cookies
